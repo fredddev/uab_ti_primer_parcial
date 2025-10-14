@@ -26,15 +26,14 @@ El sitio fue configurado y publicado en **GitHub Pages**.
 | 5 | **feat(router):** configura rutas básicas | Configuración de rutas entre *Inicio*, *Servicios* y *Contacto*. | ✅ |
 | 6 | **style:** aplica CSS mínimo y responsive | Estilos limpios y sobrios, adaptables a distintos tamaños de pantalla. | ✅ |
 | 7 | **refactor(html):** aplica estructura HTML semántica | Uso correcto de etiquetas: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`. | ✅ |
-| 8 | **ally:** mejora accesibilidad | ✅ |
+| 8 | **ally:** mejora accesibilidad | Mejorando la navegacion con Tab | ✅ |
 | 9 | **deploy:** publica el proyecto en GitHub Pages | Construcción y despliegue exitoso del sitio. | ✅ |
 | 10 | **docs(readme):** agrega README con resumen y checklist | Documentación del proceso y confirmación de cumplimiento de requisitos. | ✅ |
 
 ---
 
 ## 🌐 Enlace al sitio publicado
-👉 [Ver sitio en GitHub Pages](https://fredddev.github.io/uab_ti_primer_parcial/)  
-> *(Reemplaza “tu-repo-angular” por el nombre real de tu repositorio).*
+👉 [Ver sitio en GitHub Pages](https://fredddev.github.io/uab_ti_primer_parcial/) 
 
 ---
 
