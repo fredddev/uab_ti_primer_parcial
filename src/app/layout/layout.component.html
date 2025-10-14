@@ -6,7 +6,7 @@
 
     <nav aria-label="Principal">
       <ul class="nav-list">
-        <li><a routerLink="/" routerLinkActive="active">Inicio</a></li>
+        <li><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Inicio</a></li>
         <li><a routerLink="/servicios" routerLinkActive="active">Servicios</a></li>
         <li><a routerLink="/contacto" routerLinkActive="active">Contacto</a></li>
       </ul>
@@ -15,7 +15,7 @@
 </header>
 
 <main id="contenido" role="main">
-
+    <router-outlet></router-outlet>
 </main>
 
 <footer>
